@@ -1,0 +1,13 @@
+body {
+    background-color: #272822;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+  }
+  #calculator {
+    width: 414px;
+    text-align: center;
+    margin: 35px auto;
+    background-color: #FD971F;
+    font-size: 0;
+    box-shadow: 1px 5px 30px 1px rgba(0,0,0,0.2);
+  }
